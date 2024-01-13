@@ -182,30 +182,30 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Info Page
 
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
+![Info.gif](https://github.com/AdityaJadhav04/Buisness_Insights_360/blob/main/Repository/Info.png)
 
 ## Finance View
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+![Finace.gif](https://github.com/AdityaJadhav04/Buisness_Insights_360/blob/main/Repository/Finance_View.png)
 ## Sales View
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+![Sales.gif](https://github.com/AdityaJadhav04/Buisness_Insights_360/blob/main/Repository/Sales_View.png)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing.gif](https://github.com/AdityaJadhav04/Buisness_Insights_360/blob/main/Repository/Marketing_View.png)
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![Supply chain.gif](https://github.com/AdityaJadhav04/Buisness_Insights_360/blob/main/Repository/Supply_Chain_View.png)
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Executive.gif](https://github.com/AdityaJadhav04/Buisness_Insights_360/blob/main/Repository/Executive_View.png)
 
-## Products
+## Support
 
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
+![Support](https://github.com/AdityaJadhav04/Buisness_Insights_360/blob/main/Repository/Support.png)
 
 you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
 
