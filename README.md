@@ -168,6 +168,8 @@ Based on the mock ups received as requirement, the team will start designing the
 
 ## Home view
 
+![Home](https://github.com/AdityaJadhav04/Buisness_Insights_360/blob/main/Repository/Home.png)
+
 In Home view, all the views button will be available. User will land on specific view page by clicking the button 
 
 - Info
@@ -176,7 +178,6 @@ In Home view, all the views button will be available. User will land on specific
 - Marketing View
 - Supply chain View
 - Executive View
-- Products
 - Support
 
 
