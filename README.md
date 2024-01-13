@@ -208,8 +208,6 @@ In Home view, all the views button will be available. User will land on specific
 
 ![Support](https://github.com/AdityaJadhav04/Buisness_Insights_360/blob/main/Repository/Support.png)
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
-
 
 ## Project Outcome
 
